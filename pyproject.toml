@@ -1,0 +1,11 @@
+[project]
+name = "qiskitenv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "pylatexenc>=2.10",
+    "qiskit>=2.2.2",
+]
